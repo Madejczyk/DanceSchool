@@ -1,0 +1,10 @@
+{
+  "name": "DanceSchool",
+  "version": "0.0.0",
+  "description": "Dance School",
+  "main": "app.js",
+  "author": {
+    "name": "Jakub Madejczyk",
+    "email": ""
+  }
+}
